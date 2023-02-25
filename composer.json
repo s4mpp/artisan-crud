@@ -1,0 +1,16 @@
+{
+    "name": "samuelpacheco/artisan-crud",
+    "description": "Artisan commands to make crud resources",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Samuel pacheco",
+            "email": "samuelpachecopst@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "samuelpacheco\\artisan-crud\\": "src/"
+        }
+    }
+}
